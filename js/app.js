@@ -1,2 +1,2 @@
 console.log('我很帅')
-console.log()
+console.log(444)
